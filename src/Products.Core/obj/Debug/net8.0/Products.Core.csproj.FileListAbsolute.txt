@@ -1,0 +1,11 @@
+C:\Users\aleks\Source\ProductProject\src\Products.Core\bin\Debug\net8.0\Products.Core.deps.json
+C:\Users\aleks\Source\ProductProject\src\Products.Core\bin\Debug\net8.0\Products.Core.dll
+C:\Users\aleks\Source\ProductProject\src\Products.Core\bin\Debug\net8.0\Products.Core.pdb
+C:\Users\aleks\Source\ProductProject\src\Products.Core\obj\Debug\net8.0\Products.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Source\ProductProject\src\Products.Core\obj\Debug\net8.0\Products.Core.AssemblyInfoInputs.cache
+C:\Users\aleks\Source\ProductProject\src\Products.Core\obj\Debug\net8.0\Products.Core.AssemblyInfo.cs
+C:\Users\aleks\Source\ProductProject\src\Products.Core\obj\Debug\net8.0\Products.Core.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Source\ProductProject\src\Products.Core\obj\Debug\net8.0\Products.Core.dll
+C:\Users\aleks\Source\ProductProject\src\Products.Core\obj\Debug\net8.0\refint\Products.Core.dll
+C:\Users\aleks\Source\ProductProject\src\Products.Core\obj\Debug\net8.0\Products.Core.pdb
+C:\Users\aleks\Source\ProductProject\src\Products.Core\obj\Debug\net8.0\ref\Products.Core.dll

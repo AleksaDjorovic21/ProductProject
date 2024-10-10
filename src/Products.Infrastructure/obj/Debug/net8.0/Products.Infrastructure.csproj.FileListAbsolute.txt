@@ -1,0 +1,17 @@
+C:\Users\aleks\Source\ProductProject\src\Products.Infrastructure\bin\Debug\net8.0\Products.Infrastructure.deps.json
+C:\Users\aleks\Source\ProductProject\src\Products.Infrastructure\bin\Debug\net8.0\Products.Infrastructure.dll
+C:\Users\aleks\Source\ProductProject\src\Products.Infrastructure\bin\Debug\net8.0\Products.Infrastructure.pdb
+C:\Users\aleks\Source\ProductProject\src\Products.Infrastructure\bin\Debug\net8.0\Products.Core.dll
+C:\Users\aleks\Source\ProductProject\src\Products.Infrastructure\bin\Debug\net8.0\Products.Core.pdb
+C:\Users\aleks\Source\ProductProject\src\Products.Infrastructure\obj\Debug\net8.0\Products.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\aleks\Source\ProductProject\src\Products.Infrastructure\obj\Debug\net8.0\Products.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Source\ProductProject\src\Products.Infrastructure\obj\Debug\net8.0\Products.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\aleks\Source\ProductProject\src\Products.Infrastructure\obj\Debug\net8.0\Products.Infrastructure.AssemblyInfo.cs
+C:\Users\aleks\Source\ProductProject\src\Products.Infrastructure\obj\Debug\net8.0\Products.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Source\ProductProject\src\Products.Infrastructure\obj\Debug\net8.0\Products.D1D4EC6E.Up2Date
+C:\Users\aleks\Source\ProductProject\src\Products.Infrastructure\obj\Debug\net8.0\Products.Infrastructure.dll
+C:\Users\aleks\Source\ProductProject\src\Products.Infrastructure\obj\Debug\net8.0\refint\Products.Infrastructure.dll
+C:\Users\aleks\Source\ProductProject\src\Products.Infrastructure\obj\Debug\net8.0\Products.Infrastructure.pdb
+C:\Users\aleks\Source\ProductProject\src\Products.Infrastructure\obj\Debug\net8.0\ref\Products.Infrastructure.dll
+C:\Users\aleks\Source\ProductProject\src\Products.Infrastructure\bin\Debug\net8.0\Products.Infrastructure.runtimeconfig.json
+C:\Users\aleks\Source\ProductProject\src\Products.Infrastructure\obj\Debug\net8.0\Products.Infrastructure.genruntimeconfig.cache

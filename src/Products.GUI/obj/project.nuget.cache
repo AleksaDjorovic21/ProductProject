@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TzvJDweR8ww=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aleks\\Source\\ProductProject\\src\\Products.GUI\\Products.GUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleks\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\aleks\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
